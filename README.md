@@ -1,6 +1,6 @@
 # Nouvelle Dark
 A dark Xcode color scheme created for Swift
 
-![Example](NouvelleDark/example.jpg?raw=true "")
+![alt tag](https://raw.githubusercontent.com/BeauNouvelle/NouvelleDark/master/example.png)
 
 ### Installation
